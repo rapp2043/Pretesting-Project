@@ -48,7 +48,8 @@ To begin the EDA process, I reviewed the data using the 'summary' function.
  Mode  :character   Mode  :character   Median :71.00  
                                        Mean   :68.54  
                                        3rd Qu.:82.25  
-                                       Max.   :95.00``` 
+                                       Max.   :95.00
+``` 
 
 This allowed me to see the dataset's interquartile range and other descriptive statistics. I then wanted a density plot to visualize the skewness within those quartiles. 
 
